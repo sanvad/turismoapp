@@ -572,6 +572,5 @@ st.caption(
     "Resource ID: " + RESOURCE_ID
 )
 st.caption(
-    "David Sandoval Bahamonde
-    david@queilen.cl" 
+    "David Sandoval Bahamonde david@queilen.cl" 
 )
